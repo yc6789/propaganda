@@ -1,6 +1,2 @@
-# Propaganda Detection + Categorization in three approaches
-
-BERT
-Bi-LSTM
-Glove
+# Propaganda Detection + Categorization in three approaches (Data analysis + Visulization + Error analysis)
 
